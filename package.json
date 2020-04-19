@@ -1,0 +1,17 @@
+{
+  "name": "neo4j-sugar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alancnet/neo4j-sugar.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "neo4j": "^2.0.0-RC2"
+  },
+  "dependencies": {
+    "neo4j-driver": "^4.0.2",
+    "nest-literal": "^1.0.4"
+  }
+}
