@@ -1,6 +1,6 @@
 {
   "name": "neo4j-sugar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "neo4j-driver": "^4.0.2",
-    "nest-literal": "^1.0.4"
+    "nest-literal": "^1.0.5"
   }
 }
